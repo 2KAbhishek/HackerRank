@@ -13,6 +13,17 @@ HackerRank solutions for helping future me and others.
 
 ## Skills
 
+- [10 Days Of JS](./10-Days-Of-JS/)
+- [10 Days Of Statistics](./10-Days-Of-Statistics/)
+- [30 Days Of Code](./30-Days-Of-Code/)
+- [C++](./C++/)
+- [C](./C/)
+- [Java](./Java/)
+- [Linux Shell](./Linux-Shell/)
+- [Problem Solving](./Problem-Solving/)
+- [Python](./Python/)
+- [Ruby](./Ruby/)
+- [SQL](./SQL/)
 
 ### More Info
 
