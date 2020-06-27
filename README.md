@@ -1,5 +1,3 @@
-<div align="center">
-
 # HackerRank
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/HackerRank?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 HackerRank solutions for helping future me and others.
 
-</div>
 
 ## Skills
 
@@ -28,7 +25,6 @@ HackerRank solutions for helping future me and others.
 - [Ruby](./Ruby/)
 - [SQL](./SQL/)
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
 ### More Info
 
