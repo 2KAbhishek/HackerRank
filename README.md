@@ -10,7 +10,6 @@
 
 HackerRank solutions for helping future me and others.
 
-
 ## Skills
 
 - [10 Days Of JS](./10-Days-Of-JS/)
@@ -25,8 +24,6 @@ HackerRank solutions for helping future me and others.
 - [Ruby](./Ruby/)
 - [SQL](./SQL/)
 
-
 ### More Info
 
 Visit [HackerRank](https://hackerrank.com) for more info.
-
