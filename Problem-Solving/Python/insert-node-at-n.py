@@ -58,14 +58,13 @@ def print_singly_linked_list(node, sep, fptr):
 def insertNodeAtPosition(llist, data, position):
     node = SinglyLinkedListNode(data)
     count = 0
-    temp = llist
+    before = llist
     while count != position - 1:
-        temp = temp.next
+        before = before.next
         count += 1
 
-    remaining = temp.next
-    temp.next = node
-    node.next = remaining
+    node.next = before.next
+    before.next = node
     return llist
 
 if __name__ == '__main__':
