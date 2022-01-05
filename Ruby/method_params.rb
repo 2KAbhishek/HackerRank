@@ -1,1 +1,1 @@
-return a.range?(b,c)
+a.range?(b, c)
