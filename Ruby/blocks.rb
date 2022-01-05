@@ -1,9 +1,8 @@
 def factorial
-    yield
+  yield
 end
 
 n = gets.to_i
-factorial do 
-    puts (1..n).reduce(:*)
+factorial do
+  puts (1..n).reduce(:*)
 end
-
