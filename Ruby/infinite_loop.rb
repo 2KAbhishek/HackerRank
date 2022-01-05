@@ -1,4 +1,4 @@
 loop do
-    coder.practice
-    break if coder.oh_one?
+  coder.practice
+  break if coder.oh_one?
 end
