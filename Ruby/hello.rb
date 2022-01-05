@@ -1,1 +1,1 @@
-print "Hello HackerRank!!"
+print 'Hello HackerRank!!'
