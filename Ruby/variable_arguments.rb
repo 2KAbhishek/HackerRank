@@ -1,3 +1,3 @@
 def full_name(first, *rest)
-    first + " " + rest.join(" ")
+  "#{first} #{rest.join(' ')}"
 end
